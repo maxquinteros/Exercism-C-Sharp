@@ -1,6 +1,6 @@
 ﻿using Exercise.LogLine;
 
-// Task 1: Get message from a logg line
+// Task 1: Get message from a log line
 Console.WriteLine(LogLine.Message("[ERROR]: Invalid operation"));
 Console.WriteLine(LogLine.Message("[WARNING]:  Disk almost full\r\n"));
 
